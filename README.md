@@ -1,6 +1,6 @@
 # Jaseel Muhammad
 
-## Software Engineer | MS Computer Engineering, Rochester Institute of Technology
+## Research @ MBZUAI
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jaseelmohd&label=Profile%20views&color=0e75b6&style=flat)
 
